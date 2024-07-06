@@ -38,4 +38,4 @@ A simple and minimalist quiz building and participating application. After build
 ### Quiz Code
 ### Find Quiz
 ### Quiz Taker
-## Quiz Result
+### Quiz Result
