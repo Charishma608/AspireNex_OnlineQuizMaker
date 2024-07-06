@@ -27,3 +27,15 @@ A simple and minimalist quiz building and participating application. After build
 ### Database System
 
 - MongoDB (NoSQL database, Mongoose ODM used for queries)
+
+
+
+## Pages
+
+### Landing Page
+### Dashboard
+### Quiz Builder
+### Quiz Code
+### Find Quiz
+### Quiz Taker
+## Quiz Result
